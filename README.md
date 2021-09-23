@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in video game development
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on video game projects
